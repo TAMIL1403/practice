@@ -1,0 +1,6 @@
+Renaming a file
+Deleting a file 
+Amend the commit
+Using .gitignore
+Using git revert
+Merging branches
